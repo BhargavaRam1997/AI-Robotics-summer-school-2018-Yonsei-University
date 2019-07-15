@@ -22,7 +22,7 @@ This is source code for AI Robotics summer class. Inside here are all the source
 - opencv-python
 
 #### Package download for Windows + python 3.6
-1. [here](https://drive.google.com/open?id=1k707gyg--Lb_0uTTmBp7_BsllWR8gofH) 에서 .whl 파일 5개 다운로드  
+1. [here](https://drive.google.com/open?id=1k707gyg--Lb_0uTTmBp7_BsllWR8gofH) download .whl file
 2. win+R -> cmd for open a command prompt window.
 3. ``` pip install ".whl file download path"  ```   
 ex) ```pip install "C:\tensorflow-1.10.0-cp36-cp36m-win_amd64.whl"  ```  
