@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/dovan/Downloads/kros-2018-summer-master/lab-01-MLP/result/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/dovan/Downloads/kros-2018-summer-master/lab-01-MLP/result/model.ckpt"
